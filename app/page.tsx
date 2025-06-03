@@ -1,5 +1,5 @@
-import Component from "../payment-failure"
+import { HealthcareLanding } from "@/components/healthcare-landing"
 
 export default function Page() {
-  return <Component />
+  return <HealthcareLanding />
 }
